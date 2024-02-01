@@ -43,5 +43,3 @@ function init() {
     ccpLoadTimeout: 10000 //optional, defaults to 5000 (ms)
   });
 }
-
-init()
